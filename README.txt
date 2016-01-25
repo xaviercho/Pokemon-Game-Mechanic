@@ -1,0 +1,1 @@
+to use this is download it and compile and execute it's automated but you can make it so you can choose you actions like pokemon
